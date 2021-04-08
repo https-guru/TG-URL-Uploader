@@ -35,7 +35,7 @@ URL | filename | username | password"""
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
-   SFile  - Give File with Screenshots
+   DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
